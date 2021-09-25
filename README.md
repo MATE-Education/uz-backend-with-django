@@ -1,4 +1,4 @@
-## Django orqa kursi
+## Django back-end kursi
 *"Biz faqat tijorat dasturlashida kerak bo'lganlarini o'rgatamiz"*
 
 #### 1. Internet nima ekanligini, uning qanday ishlashini bilish
